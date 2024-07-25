@@ -85,8 +85,6 @@ chosen_word = random.choice(word_list)
 
 lower_case_word = chosen_word.lower()
 
-print(lower_case_word)
-
 #Displaying the blanks
 display = []
 
